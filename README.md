@@ -7,7 +7,7 @@ This project attempts to provide a client application able to serve as the game'
 
 For details about this project, please refer to the following articles:
 
-+ General project plan and architecture: https://www.smashingmagazine.com/2018/12/multiplayer-text-adventure-engine-node-js/
++ General project plan and architecture: https://www.maixuanviet.com/writing-a-multiplayer-text-adventure-engine-in-node-js-part-1.vietmx
 + Game server development and details: TBD
 + CLI client development and details: TBD
 + Chat server details: TBd
